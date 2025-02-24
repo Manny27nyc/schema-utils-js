@@ -57,7 +57,7 @@
     "jest": "^25.1.0",
     "json-schema": "^0.3.0",
     "rimraf": "^3.0.0",
-    "ts-jest": "^25.0.0",
+    "ts-jest": "^29.2.6",
     "typedoc": "^0.19.2",
     "typescript": "^3.3.3333",
     "webpack": "^5.1.3",
